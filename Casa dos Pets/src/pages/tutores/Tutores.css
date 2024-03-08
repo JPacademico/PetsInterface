@@ -1,0 +1,16 @@
+table{
+    max-width: 1000px;
+    width: 100%;
+
+}
+
+th{
+    color: goldenrod;
+    font-size: 24px;
+    border-bottom: solid 1px orange;
+}
+
+td{
+    padding-top: 12px;
+    text-align: center;
+}
